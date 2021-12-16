@@ -1,6 +1,6 @@
 {
     "name": "@dougskinner/eslint-config",
-    "version": "2.13.1",
+    "version": "2.13.2",
     "description": "A basic eslint config for use in my personal projects",
     "main": "src/index.js",
     "scripts": {
